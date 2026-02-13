@@ -12,4 +12,3 @@ A minimalist mini-project created to practice and showcase fundamental web devel
 - **HTML5:** For structured and semantic content.
 - **CSS3:** For custom styling, animations, and responsiveness.
 
-## 📸 Preview

@@ -13,9 +13,3 @@ A minimalist mini-project created to practice and showcase fundamental web devel
 - **CSS3:** For custom styling, animations, and responsiveness.
 
 ## 📸 Preview
-*(You can add a screenshot of your project here)*
-
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone [Your Repo Link]
